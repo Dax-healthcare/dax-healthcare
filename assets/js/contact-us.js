@@ -59,7 +59,7 @@ $(document).ready(function () {
                 });
 
                 if (isValid) {
-                    object['access_key'] = 'YOUR_ACCESS_KEY_HERE';
+                    object['access_key'] = '6fbf6212-9d7b-4194-bae8-5199d8c902d2';
                     object['subject'] = 'Dax health care inquiry';
                     object['from_name'] = 'Dax Health Care';
                     form.classList.add('submitting');
