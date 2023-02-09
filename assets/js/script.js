@@ -1,6 +1,3 @@
-import * as bootstrap from './bootstrap/bootstrap.js';
-window.bootstrap = bootstrap;
-
 jQuery(window).on("load", function () {
     jQuery('#preloader').fadeOut('fast');
 });
@@ -10,11 +7,6 @@ jQuery(document).ready(function () {
     });
 });
 
-// var mainslider = document.querySelector('#mainslider')
-// var carousel = new bootstrap.Carousel(mainslider, {
-//     interval: 4500,
-//     pause: false,
-// });
 jQuery(function () {
     var mission_src = "./assets/images/mission-bdr.png";
     var vision_src = "./assets/images/vision-bdr.png";
