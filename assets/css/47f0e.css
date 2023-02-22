@@ -16132,3 +16132,9 @@
     font-weight: bold;
     font-size: 25px;
 }
+
+.products-ul{
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
