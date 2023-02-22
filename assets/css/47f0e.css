@@ -16118,3 +16118,17 @@
  .whatsapp-icon img {
      height: 70px;
  }
+
+ .title :is(h4) {
+    color: #273A6A;
+    font-weight: 600;
+    /* font-size: 39px;
+    margin-bottom: 16px */
+}
+
+.contact-us-title{
+    color: #eaeaea;
+    margin-bottom: 9px;
+    font-weight: bold;
+    font-size: 25px;
+}
